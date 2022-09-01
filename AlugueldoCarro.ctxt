@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AlugueldoCarro
+comment1.params=c\ dti\ dtf\ cl\ crr
+comment1.target=AlugueldoCarro(int,\ java.lang.String,\ java.lang.String,\ Cliente,\ Carro)
+comment2.params=
+comment2.target=void\ exibeDados()
+numComments=3

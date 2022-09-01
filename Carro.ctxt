@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Carro
+comment1.params=m\ mm\ d\ v
+comment1.target=Carro(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=void\ exibeDados()
+numComments=3
